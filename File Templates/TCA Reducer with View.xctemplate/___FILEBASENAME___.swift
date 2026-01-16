@@ -6,7 +6,7 @@ import SwiftUI
 @Reducer
 struct ___FILEBASENAMEASIDENTIFIER___Feature {
     @ObservableState
-    enum State: Equatable {}
+    struct State: Equatable {}
     
     enum Action: Equatable {}
     
